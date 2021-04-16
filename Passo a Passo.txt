@@ -1,0 +1,14 @@
+Como fazer funcionar?
+
+Observações: O IDE(Ambiente de desenvolvimento integrado) usado foi o Pycharm, e também usamos
+a biblioteca do paygame.
+
+Siga os seguintes passos:
+
+-> Crie seu projeto no Pycharm;
+-> Instale o pygame usando o "pip install pygame". As bibliotecas que serão usadas são: pygame, os, randon;
+-> Após isso crie uma pasta chamada "imgs";
+-> Coloque as imagens que forma diponiblizadas neste repositórios (bird1, bird2, bird3, base, bg, pipe);
+-> Depois mova a pasta "imgs", para a pasta do projeto criado no pycharm.
+
+Pronto!
