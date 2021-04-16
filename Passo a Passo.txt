@@ -3,7 +3,7 @@ Como fazer funcionar?
 Observações: O IDE(Ambiente de desenvolvimento integrado) usado foi o Pycharm, e também usamos
 a biblioteca do paygame.
 
-Siga os seguintes passos:
+Siga os seguintes passos para execultar o Flappy Bird feito no Python:
 
 -> Crie seu projeto no Pycharm;
 -> Instale o pygame usando o "pip install pygame". As bibliotecas que serão usadas são: pygame, os, randon;
